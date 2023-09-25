@@ -4,4 +4,4 @@
 
 [![Build status](https://ci.appveyor.com/api/projects/status/enf1v1294t10x1eh?svg=true)](https://ci.appveyor.com/project/satriks/ajh-dom-task1)
 
-[page](https://satriks.github.io/ajh_DOM_task1)
+[Страница на github](https://satriks.github.io/ajh_DOM_task1){:target=”_blank”}
